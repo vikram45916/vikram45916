@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **NodeJS, ExpressJS, ReactJS, MongoDB | Aspiring software engineer seeking an Job Talks about #coding, #programming, #webdevelopement**
 
-- 📫 How to reach me **vikram45916@gmail.com**
+- 📫 How to reach me ****
 
-- 📄 Know about my experiences (CodSoft ltd.)
+- 📄 Know about my experiences (Bharat Intrnship)
 
 - ⚡ Fun fact **I am funny**
 
